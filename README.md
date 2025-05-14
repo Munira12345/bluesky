@@ -1,10 +1,6 @@
-# bluesky
-
-A flutter app that displays weather using OpenWeather API
-
 #  BlueSky Weather App
 
-A sleek Flutter app that displays weather for a particular city,
+A sleek Flutter app that displays weather for a particular city using OpenWeather API 
 5-day forecast using the OpenWeatherMap API and 
 Includes offline support and error handling.
 
