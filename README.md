@@ -32,6 +32,15 @@ Error handling integrated at both API and UI level
 
 - Challenge with public api key storage (future use of flutter_dotenv to better obfuscate the keys)
 
+##  UI 
+![WhatsApp Image 2025-05-14 at 17 17 00_60fff0d0](https://github.com/user-attachments/assets/46bf88c9-64ec-42d1-afd1-c558c578a493)
+
+
+
+![WhatsApp Image 2025-05-14 at 17 16 59_4809da08](https://github.com/user-attachments/assets/b7e6fcdc-cfee-4404-adf3-6a0569046105)
+
+
+
 ---
 
 ## How to Run
